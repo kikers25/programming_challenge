@@ -1,0 +1,3 @@
+Example TDD
+
+BusinessHourCalculator: class for calculating the date when is going to be ready a work.
